@@ -16,3 +16,7 @@ Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Python%
 Generators and Decorators
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Python%20Day%201-5/Day%204%20-%20Generators%20And%20Decorators.ipynb
 
+## DAY 5
+File Handling with JSON, CSV, and Text Files, Exception Handling
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Python%20Day%201-5/Day%205%20-%20%20File%20Handling%20with%20JSON%20and%20CSV%2C%20Exception%20Handling.ipynb
+
