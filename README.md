@@ -24,3 +24,7 @@ Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Python%
 Introduction to Pandas
 https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Data%20Manipualation%20And%20Visualisation%20Day%206%20-%2010
 
+## DAY 7
+Advanced Data Manipulation with Pandas
+https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20Manipualation%20And%20Visualisation%20Day%206%20-%2010/Day%207%20-%20Advanced%20Data%20Manipulation%20with%20Pandas.ipynb
+
