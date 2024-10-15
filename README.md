@@ -22,13 +22,13 @@ Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Python%
 
 ## DAY 6 
 Introduction to Pandas
-https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Data%20Manipualation%20And%20Visualisation%20Day%206%20-%2010
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Data%20Manipualation%20And%20Visualisation%20Day%206%20-%2010
 
 ## DAY 7
 Advanced Data Manipulation with Pandas
-https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20Manipualation%20And%20Visualisation%20Day%206%20-%2010/Day%207%20-%20Advanced%20Data%20Manipulation%20with%20Pandas.ipynb
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20Manipualation%20And%20Visualisation%20Day%206%20-%2010/Day%207%20-%20Advanced%20Data%20Manipulation%20with%20Pandas.ipynb
 
 ## DAY 8
 Introduction to Data Visualization with Matplotlib
-https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20Manipualation%20And%20Visualisation%20Day%206%20-%2010/Day%208%20-%20Introduction%20to%20Data%20Visualization%20with%20Matplotlib%20(2).ipynb
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20Manipualation%20And%20Visualisation%20Day%206%20-%2010/Day%208%20-%20Introduction%20to%20Data%20Visualization%20with%20Matplotlib%20(2).ipynb
 
