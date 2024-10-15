@@ -32,3 +32,7 @@ Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20
 Introduction to Data Visualization with Matplotlib
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20Manipualation%20And%20Visualisation%20Day%206%20-%2010/Day%208%20-%20Introduction%20to%20Data%20Visualization%20with%20Matplotlib%20(2).ipynb
 
+## DAY 9
+Advanced Data Visualization with Seaborn
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20Manipualation%20And%20Visualisation%20Day%206%20-%2010/Day%209%20-%20%20Advanced%20Data%20Visualization%20with%20Seaborn.ipynb
+
