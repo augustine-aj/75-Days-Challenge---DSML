@@ -36,3 +36,7 @@ Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20
 Advanced Data Visualization with Seaborn
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20Manipualation%20And%20Visualisation%20Day%206%20-%2010/Day%209%20-%20%20Advanced%20Data%20Visualization%20with%20Seaborn.ipynb
 
+## DAY 10
+Exploratory Data Analysis (EDA) Project
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20Manipualation%20And%20Visualisation%20Day%206%20-%2010/Day%2010%20-%20Exploratory%20Data%20Analysis%20(EDA)%20Project.ipynb
+
