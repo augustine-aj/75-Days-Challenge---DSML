@@ -44,3 +44,7 @@ Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20
 Data Cleaning And Core Analysis
 LinK: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20Cleaning%20and%20Core%20Analysis/Day%2011%20-%20Data%20Cleaning%20and%20Core%20Analysis.ipynb
 
+## DAY 12 
+Create Advanced Visualizations 📊
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20Cleaning%20and%20Core%20Analysis/Day%2012%20-%20Create%20Advanced%20Visualizations.ipynb
+
