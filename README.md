@@ -40,3 +40,7 @@ Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20
 Exploratory Data Analysis (EDA) Project
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20Manipualation%20And%20Visualisation%20Day%206%20-%2010/Day%2010%20-%20Exploratory%20Data%20Analysis%20(EDA)%20Project.ipynb
 
+## DAY 11 
+Data Cleaning And Core Analysis
+https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20Cleaning%20and%20Core%20Analysis/Day%2011%20-%20Data%20Cleaning%20and%20Core%20Analysis.ipynb
+
