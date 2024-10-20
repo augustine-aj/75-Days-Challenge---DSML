@@ -53,4 +53,8 @@ Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20
 Modules and Packages
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20Cleaning%20and%20Core%20Analysis/Day%2013%20-%20Python%20Modules%20and%20Packages.ipynb
 
+## DAY 14
+Python Metaprogramming (Dynamic Code)
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20Cleaning%20and%20Core%20Analysis/Day%2014%20-%20Python%20Metaprogramming%20(Dynamic%20Code).ipynb
+
 
