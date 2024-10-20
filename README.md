@@ -1,3 +1,4 @@
+
 # 75-Days-Challenge---DSML
 
 ## DAY 1 
@@ -47,4 +48,9 @@ LinK: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20
 ## DAY 12 
 Create Advanced Visualizations 📊
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20Cleaning%20and%20Core%20Analysis/Day%2012%20-%20Create%20Advanced%20Visualizations.ipynb
+
+## DAY 13
+Modules and Packages
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20Cleaning%20and%20Core%20Analysis/Day%2013%20-%20Python%20Modules%20and%20Packages.ipynb
+
 
