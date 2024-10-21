@@ -57,4 +57,8 @@ Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20
 Python Metaprogramming (Dynamic Code)
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20Cleaning%20and%20Core%20Analysis/Day%2014%20-%20Python%20Metaprogramming%20(Dynamic%20Code).ipynb
 
+## DAY 15 
+Python Multithreading and Multiprocessing
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20Cleaning%20and%20Core%20Analysis/Day%2015%20-%20Python%20Multithreading%20and%20Multiprocessing.ipynb
+
 
