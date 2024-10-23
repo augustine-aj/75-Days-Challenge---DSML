@@ -1,6 +1,7 @@
 
 # 75-Days-Challenge---DSML
 
+## PYTHON
 ## DAY 1 
 Python advanced datastructures
 link : https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Day%201%20-%20Data%20Structures.ipynb
@@ -60,5 +61,10 @@ Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20
 ## DAY 15 
 Python Multithreading and Multiprocessing
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20Cleaning%20and%20Core%20Analysis/Day%2015%20-%20Python%20Multithreading%20and%20Multiprocessing.ipynb
+
+## SQL 
+## Day 16
+DIVE INTO SQL: UNLEASHING DATA INSIGHTS WITH SELECT, WHERE, AND ORDER BY
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20Day%201-15/SQL-Day%201.pdf
 
 
