@@ -67,4 +67,8 @@ Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20
 DIVE INTO SQL: UNLEASHING DATA INSIGHTS WITH SELECT, WHERE, AND ORDER BY
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20Day%201-15/SQL-Day%201.pdf
 
+## Dat 17
+Mastering SQL Joins in MySQL: Connecting Data Across Tables
+https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20Day%201-15/SQL%20Day%20-%202.pdf
+
 
