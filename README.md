@@ -63,15 +63,15 @@ Python Multithreading and Multiprocessing
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/Data%20Cleaning%20and%20Core%20Analysis/Day%2015%20-%20Python%20Multithreading%20and%20Multiprocessing.ipynb
 
 ## SQL 
-## Day 16
+## DAY 16
 DIVE INTO SQL: UNLEASHING DATA INSIGHTS WITH SELECT, WHERE, AND ORDER BY
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20Day%201-15/SQL-Day%201.pdf
 
-## Day 17
+## DAY 17
 Mastering SQL Joins in MySQL: Connecting Data Across Tables
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20Day%201-15/SQL%20Day%20-%202.pdf
 
-## Day 18
+## DAY 18
 Simple Guide to Aggregate Functions and GROUP BY in MySQL
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20Day%201-15/SQL-Day%203.pdf
 
