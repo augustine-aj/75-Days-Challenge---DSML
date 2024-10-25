@@ -75,4 +75,8 @@ Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20D
 Simple Guide to Aggregate Functions and GROUP BY in MySQL
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20Day%201-15/SQL-Day%203.pdf
 
+## DAY 19
+Subqueries and Derived Tables in SQL: Unlock the Power of Nested Queries for Advanced Data Analysis!
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20Day%201-15/SQL-Day%204.pdf
+
 
