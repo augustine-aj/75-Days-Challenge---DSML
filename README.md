@@ -83,4 +83,8 @@ Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20D
 Creating and Altering Tables in MySQL: Build and manage your database efficiently!
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20Day%201-15/Day%2020%20-%20SQL%205.pdf
 
+## DAY 21
+Indexing for Query Optimization in MySQL: SPEED UP YOUR QUERIES WITH THE POWER OF INDEXES!
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20Day%201-15/%20SQL%20-%20Day%206.pdf
+
 
