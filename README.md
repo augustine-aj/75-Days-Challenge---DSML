@@ -87,4 +87,8 @@ Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20D
 Indexing for Query Optimization in MySQL: SPEED UP YOUR QUERIES WITH THE POWER OF INDEXES!
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20Day%201-15/%20SQL%20-%20Day%206.pdf
 
+## DAY 22
+STORED PROCEDURES AND FUNCTIONS IN MYSQL: OPTIMIZE AND SIMPLIFY YOUR SQL QUERIES
+https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20Day%201-15/SQL-Day%207.pdf
+
 
