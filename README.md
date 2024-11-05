@@ -133,6 +133,8 @@ WINDOW FUNCTIONS FOR ADVANCED ANALYSIS IN SQL
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20Day%201-15/SQL-Day%2011.pdf
 
+## DAY 27
+Mastering Common Table Expressions (CTEs) in MySQL
 
-
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20Day%201-15/SQL-Day%2012.pdf
 
