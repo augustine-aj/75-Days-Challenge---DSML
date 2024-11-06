@@ -138,3 +138,8 @@ Mastering Common Table Expressions (CTEs) in MySQL
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20Day%201-15/SQL-Day%2012.pdf
 
+## DAY 28 
+MASTERING DATE AND TIME DATA HANDLING IN MYSQL
+
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20Day%201-15/SQL-Day%2013.pdf
+
