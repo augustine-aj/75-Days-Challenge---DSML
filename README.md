@@ -143,3 +143,13 @@ MASTERING DATE AND TIME DATA HANDLING IN MYSQL
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20Day%201-15/SQL-Day%2013.pdf
 
+## DAY 29
+FULL-TEXT SEARCH CAPABILITIES IN MYSQL
+
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20Day%201-15/SQL-Day%2014.pdf
+
+## DAY 30
+Mastering JSON in MySQL: A Guide to Efficient Data Handling
+
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20Day%201-15/SQL-Day%2015.pdf
+
