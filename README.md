@@ -153,3 +153,13 @@ Mastering JSON in MySQL: A Guide to Efficient Data Handling
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/blob/main/SQL%20Day%201-15/SQL-Day%2015.pdf
 
+## DAY 31
+Introduction to Statistics and Descriptive Metrics
+
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Basics%20Statistics%20ML%2C%20DL/Day%201
+
+## DAY 32
+Percentiles, Quartiles, and Data Visualization
+
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Basics%20Statistics%20ML%2C%20DL/Day%202
+
