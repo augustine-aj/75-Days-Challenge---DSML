@@ -163,3 +163,8 @@ Percentiles, Quartiles, and Data Visualization
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Basics%20Statistics%20ML%2C%20DL/Day%202
 
+## Day 33
+Probability Fundamentals and Basic Distributions
+
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Basics%20Statistics%20ML,%20DL/Day%203
+
