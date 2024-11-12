@@ -168,3 +168,8 @@ Probability Fundamentals and Basic Distributions
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Basics%20Statistics%20ML,%20DL/Day%203
 
+## Day 34
+Conditional Probability and Bayes’ Theorem
+
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Basics%20Statistics%20ML,%20DL/Day%204
+
