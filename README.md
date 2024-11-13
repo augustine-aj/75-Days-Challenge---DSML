@@ -173,3 +173,8 @@ Conditional Probability and Bayes’ Theorem
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Basics%20Statistics%20ML,%20DL/Day%204
 
+## Day 35
+The Normal Distribution and Central Limit Theorem (CLT)
+
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Basics%20Statistics%20ML,%20DL/Day%205
+
