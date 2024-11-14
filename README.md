@@ -178,3 +178,11 @@ The Normal Distribution and Central Limit Theorem (CLT)
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Basics%20Statistics%20ML,%20DL/Day%205
 
+## Day 36
+Confidence Intervals and Hypothesis Testing Basics
+
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Basics%20Statistics%20ML,%20DL/Day%206
+
+
+
+
