@@ -183,6 +183,11 @@ Confidence Intervals and Hypothesis Testing Basics
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Basics%20Statistics%20ML,%20DL/Day%206
 
+## Day 37
+Hypothesis Testing 2 – T-tests and Chi-Square Test
+
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Basics%20Statistics%20ML%2C%20DL/Day%207
+
 
 
 
