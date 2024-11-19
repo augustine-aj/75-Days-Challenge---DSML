@@ -188,6 +188,11 @@ Hypothesis Testing 2 – T-tests and Chi-Square Test
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Basics%20Statistics%20ML%2C%20DL/Day%207
 
+## Day 38
+Correlation, Covariance, and Simple Linear Regression
+
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Basics%20Statistics%20ML%2C%20DL/Day%208
+
 
 
 
