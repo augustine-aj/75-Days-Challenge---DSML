@@ -193,12 +193,12 @@ Correlation, Covariance, and Simple Linear Regression
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Basics%20Statistics%20ML%2C%20DL/Day%208
 
-Day 39
+## Day 39
 Multiple Linear Regression and Logistic Regression
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Basics%20Statistics%20ML%2C%20DL/Day%209
 
-Day 40
+## Day 40
 ANOVA and Resampling Techniques
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Basics%20Statistics%20ML%2C%20DL/Day%2010
