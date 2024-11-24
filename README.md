@@ -203,6 +203,16 @@ ANOVA and Resampling Techniques
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Basics%20Statistics%20ML%2C%20DL/Day%2010
 
+## Day 41
+Introduction to Machine Learning and Data Preprocessing
+
+Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%20Learning/Day%201
+
+## Day 42
+Exploratory Data Analysis (EDA) Overview
+
+Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%20Learning/Day%202
+
 
 
 
