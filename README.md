@@ -213,6 +213,11 @@ Exploratory Data Analysis (EDA) Overview
 
 Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%20Learning/Day%202
 
+## Day 43
+Supervised Learning - Linear Regression Basics
+
+Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%20Learning/Day%203
+
 
 
 
