@@ -223,7 +223,10 @@ Decision Trees: Explanation
 
 Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%20Learning/Day%204
 
+## Day 45
+Supervised Learning - Model Evaluation
 
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%20Learning/Day%205
 
 
 
