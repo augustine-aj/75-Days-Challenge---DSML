@@ -228,7 +228,10 @@ Supervised Learning - Model Evaluation
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%20Learning/Day%205
 
+## Day 46
+Understanding Overfitting, Underfitting, and the Bias-Variance Trade-off
 
+Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%20Learning/Day%206
 
 
 
