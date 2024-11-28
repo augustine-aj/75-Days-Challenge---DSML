@@ -233,6 +233,11 @@ Understanding Overfitting, Underfitting, and the Bias-Variance Trade-off
 
 Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%20Learning/Day%206
 
+## Day 47
+ Unsupervised Learning - Clustering Basics
+
+ Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%20Learning/Day%207
+
 
 
 
