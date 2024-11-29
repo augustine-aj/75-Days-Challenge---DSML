@@ -238,6 +238,11 @@ Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%
 
  Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%20Learning/Day%207
 
+ ## Day 48
+Feature Engineering and Feature Selection
+
+ Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%20Learning/Day%208
+
 
 
 
