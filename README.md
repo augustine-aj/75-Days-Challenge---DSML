@@ -248,6 +248,11 @@ Feature Engineering and Feature Selection
 
  Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%20Learning/Day%209
 
+ ## Day 50
+ Introduction to Logistic Regression
+
+ Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%20Learning/Day%2010
+
 
 
 
