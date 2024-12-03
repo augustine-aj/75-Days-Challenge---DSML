@@ -253,6 +253,9 @@ Feature Engineering and Feature Selection
 
  Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%20Learning/Day%2010
 
+ ## Day 51
+ Hyperparameter Tuning
 
+ Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%20Learning/Day%2011
 
 
