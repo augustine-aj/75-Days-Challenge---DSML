@@ -258,4 +258,9 @@ Feature Engineering and Feature Selection
 
  Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%20Learning/Day%2011
 
+ ## Day 52
+ Cross-Validation Techniques
+
+ Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%20Learning/Day%2012
+
 
