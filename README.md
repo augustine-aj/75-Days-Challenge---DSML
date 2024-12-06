@@ -267,3 +267,8 @@ Feature Engineering and Feature Selection
 Customer Churn Prediction Model
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%20Learning/Day%2013
+
+## Day 54
+Model Deployment Basics
+
+Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%20Learning/Day%2014
