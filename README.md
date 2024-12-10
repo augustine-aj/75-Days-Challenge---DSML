@@ -277,3 +277,8 @@ Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%
  Advanced Model Optimization and Insights Presentation
 
  Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%20Learning/Day%2015
+
+ ## Day 56
+ Introduction to Deep Learning
+
+ Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%201
