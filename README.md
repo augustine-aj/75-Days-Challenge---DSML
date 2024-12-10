@@ -282,3 +282,8 @@ Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%
  Introduction to Deep Learning
 
  Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%201
+
+  ## Day 57
+ TensorFlow and Keras Basics
+
+ Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%202
