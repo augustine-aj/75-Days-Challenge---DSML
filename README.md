@@ -287,3 +287,8 @@ Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%
  TensorFlow and Keras Basics
 
  Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%202
+
+ ## Day 58
+Convolutional Neural Networks (CNN) Fundamentals
+
+ Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%203
