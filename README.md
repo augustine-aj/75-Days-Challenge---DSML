@@ -292,3 +292,8 @@ Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Machine%
 Convolutional Neural Networks (CNN) Fundamentals
 
  Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%203
+
+ ## Day 59
+ Building my first CNN
+
+ Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%204
