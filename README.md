@@ -297,3 +297,13 @@ Convolutional Neural Networks (CNN) Fundamentals
  Building my first CNN
 
  Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%204
+
+ ## Day 60
+ Model Evaluation and Debugging in Deep Learning
+
+ Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%205
+
+ ## Day 61
+Data Augmentation Techniques
+
+Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%206
