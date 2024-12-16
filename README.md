@@ -307,3 +307,8 @@ Convolutional Neural Networks (CNN) Fundamentals
 Data Augmentation Techniques
 
 Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%206
+
+## Day 62
+CNN Regularization
+
+Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%207
