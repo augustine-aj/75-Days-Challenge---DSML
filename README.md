@@ -312,3 +312,8 @@ Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20L
 CNN Regularization
 
 Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%207
+
+## Day 63
+Transfer Learning Basics
+
+Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%208
