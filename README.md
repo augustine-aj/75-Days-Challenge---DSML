@@ -317,3 +317,10 @@ Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20L
 Transfer Learning Basics
 
 Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%208
+
+## Day 64
+Implement Transfer Learning with VGG16
+
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%209
+
+
