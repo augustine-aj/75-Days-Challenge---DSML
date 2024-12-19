@@ -323,4 +323,9 @@ Implement Transfer Learning with VGG16
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%209
 
+## Day 65
+Implement Transfer Learning with VGG16
+
+Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%2010
+
 
