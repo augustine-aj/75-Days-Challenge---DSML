@@ -328,4 +328,12 @@ Implement Transfer Learning with VGG16
 
 Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%2010
 
+## Day 66
+Hyperparameter Tuning in Deep Learning
 
+Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%2011
+
+## Day 67
+Visualizing CNN Predictions
+
+Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%2012
