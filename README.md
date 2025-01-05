@@ -337,3 +337,9 @@ Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20L
 Visualizing CNN Predictions
 
 Link:https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%2012
+
+## Day 68
+Model Deployment Preparation
+
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%2013
+
