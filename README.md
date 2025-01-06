@@ -343,3 +343,8 @@ Model Deployment Preparation
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%2013
 
+## Day 69
+Transfer Learning on a Different Dataset
+
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%2014
+
