@@ -348,3 +348,9 @@ Transfer Learning on a Different Dataset
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%2014
 
+## Day 70
+Finalize Project Dataset. Clean, preprocess, and augment the Cats vs. Dogs dataset.
+
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%2015
+
+
