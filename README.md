@@ -353,4 +353,8 @@ Finalize Project Dataset. Clean, preprocess, and augment the Cats vs. Dogs datas
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%2015
 
+## Day 71
+Train the Model - Train the CNN with the preprocessed dataset. Monitor and log performance during training.
+
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%2016
 
