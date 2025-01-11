@@ -358,3 +358,8 @@ Train the Model - Train the CNN with the preprocessed dataset. Monitor and log p
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%2016
 
+## Day 72
+Model Refinement
+
+Link: 
+
