@@ -363,3 +363,8 @@ Model Refinement
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%2017
 
+## Day 73
+Evaluate and Test
+
+LinK: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%2018
+
