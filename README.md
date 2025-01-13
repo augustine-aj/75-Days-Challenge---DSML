@@ -368,3 +368,8 @@ Evaluate and Test
 
 LinK: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%2018
 
+## Day 74
+Insights and Documentation
+
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%2019
+
