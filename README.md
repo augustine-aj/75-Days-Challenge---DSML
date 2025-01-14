@@ -373,3 +373,8 @@ Insights and Documentation
 
 Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%2019
 
+## Day 75
+Deploy the model using Flask/Streamlit
+
+Link: https://github.com/augustine-aj/75-Days-Challenge---DSML/tree/main/Deep%20Learning/Day%2020
+
